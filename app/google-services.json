@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "69103792772",
+    "firebase_url": "https://mundo-educativo-9a529-default-rtdb.firebaseio.com",
+    "project_id": "mundo-educativo-9a529",
+    "storage_bucket": "mundo-educativo-9a529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69103792772:android:c0c0e2b498b29a8504c8d1",
+        "android_client_info": {
+          "package_name": "com.example.mundoeducativo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagklVogxA5HXjjZfyNyp5fiV2dyQwE-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
